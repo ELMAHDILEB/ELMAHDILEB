@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm EL MAHDI</h1>
 <h3 align="center">A passionate frontend developer from MOROCCO</h3>
-<img align="right"  alt="coding" width="400" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" >
+<img align="center"  alt="coding" width="400" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" >
 
 
 
