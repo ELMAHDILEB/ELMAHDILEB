@@ -5,7 +5,7 @@
 # Hi there 👋, I'm EL MAHDI
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&lines=Passionate+Frontend+Developer+from+Morocco;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Professional+Web+Design;Experience+with+TailwindCSS+and+ReactJS" alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&lines=Passionate+Frontend+Developer+from+Morocco;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Professional+Web+Design;Experience+with+TailwindCSS+and+ReactJS" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
