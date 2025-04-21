@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/ELMAHDILEB/ELMAHDILEB/blob/main/header.png](https://raw.githubusercontent.com/ELMAHDILEB/ELMAHDILEB/refs/heads/main/github-header-image%20(1).png)" alt="Header" width="100%">
+  <img src="https://github.com/ELMAHDILEB/ELMAHDILEB/blob/main/github-header-image%20(1).png?raw=true" alt="Header" width="100%">
 </div>
 
 # Hi there 👋, I'm EL MAHDI
