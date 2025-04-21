@@ -1,47 +1,123 @@
-<h1 align="center">Hi 👋, I'm EL MAHDI</h1>
-<h3 align="center">A passionate frontend developer from MOROCCO</h3>
-<img align="center"  alt="coding" width="400" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" >
+<div align="center">
+  <img src="https://github.com/ELMAHDILEB/ELMAHDILEB/blob/main/header.png" alt="Header" width="100%">
+</div>
 
+# Hi there 👋, I'm EL MAHDI
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&lines=Passionate+Frontend+Developer+from+Morocco;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Professional+Web+Design;Experience+with+TailwindCSS+and+ReactJS" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elmahdileb&label=Profile%20views&color=0e75b6&style=flat" alt="elmahdileb" /> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmahdileb" alt="elmahdileb" /></a> </p>
+🎯 Passionate frontend developer from Morocco, specializing in creating seamless and engaging user experiences.
 
-<p align="left"> <a href="https://twitter.com/elmahdicoder" target="blank"><img src="https://img.shields.io/twitter/follow/elmahdicoder?logo=twitter&style=for-the-badge" alt="elmahdicoder" /></a> </p>
+🔭 Currently working on freelance projects through [Khamsat](https://khamsat.com/user/medbel09), [Fiverr](https://www.fiverr.com/medbel09), and [Upwork](https://www.upwork.com).
 
-- 🔭 I’m currently working on [the freelance website Khamsat , Fiverr, Upwork](https://elmahdileb.github.io/maktabtAbuFahd/)
+🌱 Currently learning **REACT JS, NODE JS, REACTNATIVE, SCSS**
 
-- 🌱 I’m currently learning **REACT JS, NODE JS, REACTNATIVE, SCSS**
+💼 Looking to collaborate on exciting projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ELMAHDILEB](https://github.com/ELMAHDILEB)
+## 💻 Skills & Technologies
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, TAILWINDCSS, REACT JS**
+<div align="center">
+  
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 📫 How to reach me **elmahdibelcadi@gmail.com**
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/elmahdileb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elmahdileb" height="30" width="40" /></a>
-<a href="https://twitter.com/elmahdicoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmahdicoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/el-mahdi-belcadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-mahdi-belcadi/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/elmahdileb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="elmahdileb" height="30" width="40" /></a>
-<a href="https://fb.com/el mahdi med" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="el mahdi med" height="30" width="40" /></a>
-<a href="https://instagram.com/bdeveloper01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bdeveloper01" height="30" width="40" /></a>
-<a href="https://medium.com/mehdibelcadi234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mehdibelcadi234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@okforcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="okforcoding" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elmahdibelcadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elmahdibelcadi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/elmahdileb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elmahdileb" height="30" width="40" /></a>
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mehdibelcau"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehdibelcau" /></a></p><br><br>
+## 🔥 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmahdileb&show_icons=true&locale=en&layout=compact" alt="elmahdileb" /></p>
+<div align="center">
+  <a href="https://github.com/ELMAHDILEB/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project1&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/ELMAHDILEB/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project2&theme=react&hide_border=true" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmahdileb&show_icons=true&locale=en" alt="elmahdileb" /></p>
+<div align="center">
+  <a href="https://github.com/ELMAHDILEB/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project3&theme=react&hide_border=true" />
+  </a>
+  <a href="https://github.com/ELMAHDILEB/project4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project4&theme=react&hide_border=true" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elmahdileb&" alt="elmahdileb" /></p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELMAHDILEB&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELMAHDILEB&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMAHDILEB&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-elmahdilbecadi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmahdilbecadi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-mahdi-belcadi-b62570236/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELMAHDILEB)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/medbel09)
+[![Website](https://img.shields.io/badge/Website-bcoder.vercel.app-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bcoder.vercel.app/)
+
+</div>
+
+## 👨‍💻 Work Flow
+
+```
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ELMAHDILEB&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ELMAHDILEB?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+<div align="center">
+  
+  **[bcoder.vercel.app](https://bcoder.vercel.app/) • [GitHub](https://github.com/ELMAHDILEB) • [LinkedIn](https://www.linkedin.com/in/el-mahdi-belcadi-b62570236/) • [Fiverr](https://www.fiverr.com/medbel09)**
+  
+</div>
+```
+
+### Important Notes:
+
+1. **Header Image**: Create an attractive header image and upload it to your GitHub repository at the path `ELMAHDILEB/ELMAHDILEB/blob/main/header.png`.
+
+2. **Featured Projects**: Change the project names (`project1`, `project2`, etc.) to the names of your actual project repositories.
+
+3. **Images and Badges**: Services like `shields.io` and `github-readme-stats` are used to create attractive badges and statistics. These services work automatically when you add the code to your README.md file.
+
+4. **Customization**: You can modify the colors, text, and links according to your preferences.
+
+This file will give visitors to your GitHub profile a professional impression of your skills and experience, and will help you better connect with the community.
+
+<Actions>
+  <Action name="Create a header image" description="Design an attractive header image for your README.md" />
+  <Action name="Add real projects" description="Update the projects section with your actual projects" />
+  <Action name="Customize colors" description="Change badge and stats colors to match your brand identity" />
+  <Action name="Add certifications section" description="Add a section showcasing your certifications and courses" />
+</Actions>
+
+```
