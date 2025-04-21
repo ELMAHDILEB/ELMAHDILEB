@@ -43,20 +43,20 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ELMAHDILEB/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project1&theme=react&hide_border=true" />
+  <a href="https://github.com/ELMAHDILEB/amlouEcommerce-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=amlouEcommerce-website&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/ELMAHDILEB/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project2&theme=react&hide_border=true" />
+  <a href="https://github.com/ELMAHDILEB/authenticationProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=authenticationProject&theme=react&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ELMAHDILEB/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project3&theme=react&hide_border=true" />
+  <a href="https://github.com/ELMAHDILEB/sellingcars-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=sellingcars-app&theme=react&hide_border=true" />
   </a>
-  <a href="https://github.com/ELMAHDILEB/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=project4&theme=react&hide_border=true" />
+  <a href="https://github.com/ELMAHDILEB/bcoder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=bcoder&theme=react&hide_border=true" />
   </a>
 </div>
 
@@ -85,39 +85,9 @@
 
 ## 👨‍💻 Work Flow
 
-```
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ELMAHDILEB&style=flat-square&color=blue" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ELMAHDILEB?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
-<div align="center">
-  
-  **[bcoder.vercel.app](https://bcoder.vercel.app/) • [GitHub](https://github.com/ELMAHDILEB) • [LinkedIn](https://www.linkedin.com/in/el-mahdi-belcadi-b62570236/) • [Fiverr](https://www.fiverr.com/medbel09)**
-  
-</div>
-```
-
-### Important Notes:
-
-1. **Header Image**: Create an attractive header image and upload it to your GitHub repository at the path `ELMAHDILEB/ELMAHDILEB/blob/main/header.png`.
-
-2. **Featured Projects**: Change the project names (`project1`, `project2`, etc.) to the names of your actual project repositories.
-
-3. **Images and Badges**: Services like `shields.io` and `github-readme-stats` are used to create attractive badges and statistics. These services work automatically when you add the code to your README.md file.
-
-4. **Customization**: You can modify the colors, text, and links according to your preferences.
-
-This file will give visitors to your GitHub profile a professional impression of your skills and experience, and will help you better connect with the community.
-
-<Actions>
-  <Action name="Create a header image" description="Design an attractive header image for your README.md" />
-  <Action name="Add real projects" description="Update the projects section with your actual projects" />
-  <Action name="Customize colors" description="Change badge and stats colors to match your brand identity" />
-  <Action name="Add certifications section" description="Add a section showcasing your certifications and courses" />
-</Actions>
-
-```
+```text
+💻 Frontend Development   █████████████████████░░░   90% 
+🎨 Web Design            ████████████████████░░░░░   85% 
+🔧 JavaScript            ███████████████████░░░░░░   80% 
+⚛️ React                 ██████████████░░░░░░░░░░░   60% 
+📱 Mobile App Dev        ████████░░░░░░░░░░░░░░░░░   35% 
