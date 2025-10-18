@@ -1,89 +1,78 @@
-# Hi there 👋, I'm EL MAHDI
+# Hi, I'm B Coder 👋
 
-<div align="center" >
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=800&lines=Passionate+Frontend+Developer+from+Morocco;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Professional+Web+Design;Experience+with+TailwindCSS+and+ReactJS" alt="Typing SVG" />
-</div>
+> Front-end & Full-stack Developer | ReactJS & NodeJS Enthusiast | UI/UX Lover | TypeScript Developer
 
-## 🚀 About Me
+---
 
-🎯 Passionate frontend developer from Morocco, specializing in creating seamless and engaging user experiences.
+## 🔥 About Me
+I'm a passionate developer from Morocco, specializing in **Front-end** and exploring **Full-stack** development.  
+I enjoy building modern, responsive, and interactive web apps.  
+Currently, I’m learning **Java** to expand my back-end skills.  
 
-🔭 Currently working on freelance projects through [Khamsat](https://khamsat.com/user/medbel09), [Fiverr](https://www.fiverr.com/medbel09), and [Upwork](https://www.upwork.com).
+I love tackling challenges, improving my skills, and staying up-to-date with the latest technologies.
 
-🌱 Currently learning **REACT JS, NODE JS, REACTNATIVE, SCSS**
+---
 
-💼 Looking to collaborate on exciting projects.
+## 🛠 Skills & Tools
 
-## 💻 Skills & Technologies
-
-<div align="center">
-  
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages & Frameworks
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🎨 Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-</div>
+---
 
-## 🔥 Featured Projects
+## 💻 Projects
+Here are some of my projects:
 
-<div align="center">
-  <a href="https://github.com/ELMAHDILEB/amlouEcommerce-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=amlouEcommerce-website&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/ELMAHDILEB/authenticationProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=authenticationProject&theme=react&hide_border=true" />
-  </a>
-</div>
+- **[Amlou Inou Ecommerce](https://amlou-ecommerce-website.vercel.app/)** - ReactJS, Tailwind CSS, TypeScript  
+- **[GOODHOME V1](https://elmahdileb.github.io/goodhome/)** - HTML, CSS, JS  
+- **[BEST SELLING CAR](https://elmahdileb.github.io/sellingcars-app/dist/index.html)** - HTML, TailwindCSS, JS  
+- **[PAINT WEBSITE](https://elmahdileb.github.io/landing-page-paint/)** - HTML, CSS, RevealJS  
+- **[مكتب أبو فهد](https://elmahdileb.github.io/maktabtAbuFahd/)** - HTML, CSS, JS  
 
-<div align="center">
-  <a href="https://github.com/ELMAHDILEB/sellingcars-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=sellingcars-app&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/ELMAHDILEB/bcoder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ELMAHDILEB&repo=bcoder&theme=react&hide_border=true" />
-  </a>
-</div>
+_For more projects, check my [GitHub repositories](https://github.com/ELMAHDILEB)_  
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELMAHDILEB&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELMAHDILEB&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+## 🌟 Testimonials
+> "من افضل المصممين ونشيط ومتعاون" – **مكتب ا.**  
+> "Great job, keep going" – **Habib B**  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMAHDILEB&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</div>
+Check out more [here](https://khamsat.com/user/medbel09/reviews).
 
-## 📫 Connect With Me
+---
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-elmahdilbecadi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmahdilbecadi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-mahdi-belcadi-b62570236/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ELMAHDILEB)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/medbel09)
-[![Website](https://img.shields.io/badge/Website-bcoder.codes-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.bcoder.codes/)
+## 📈 GitHub Stats
 
-</div>
+![B Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELMAHDILEB&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ELMAHDILEB&layout=compact&theme=tokyonight)
 
-## 👨‍💻 Work Flow
+---
 
-```text
-💻 Frontend Development   █████████████████████░░░   90% 
-🎨 Web Design            ████████████████████░░░░░   85% 
-🔧 JavaScript            ███████████████████░░░░░░   80% 
-⚛️ React                 ██████████████░░░░░░░░░░░   60% 
-📱 Mobile App Dev        ████████░░░░░░░░░░░░░░░░░   35% 
+## 📫 Contact Me
+- **Email:** [elmahdibelcadi@gmail.com](mailto:elmahdibelcadi@gmail.com)  
+- **LinkedIn:** [El Mahdi Belcadi](https://www.linkedin.com/in/el-mahdi-belcadi-b62570236/)  
+- **GitHub:** [ELMAHDILEB](https://github.com/ELMAHDILEB)  
+- **X (Twitter):** [@elmahdicoder](https://x.com/elmahdicoder)  
+
+---
+
+## ☕ Support Me
+If you like my work, you can support me:  
+[Buy me a coffee](https://buymeacoffee.com/?via=mehdibelcau)
