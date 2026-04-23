@@ -1,15 +1,17 @@
 # Hi, I'm B Coder 👋
 
-> Front-end & Full-stack Developer | ReactJS & NodeJS Enthusiast | UI/UX Lover | TypeScript Developer
+> Full-Stack Developer (MERN) focused on building modern web apps with React, Node.js, and TypeScript
+
 
 ---
 
 ## 🔥 About Me
-I'm a passionate developer from Morocco, specializing in **Front-end** and exploring **Full-stack** development.  
-I enjoy building modern, responsive, and interactive web apps.  
-Currently, I’m learning **Java** to expand my back-end skills.  
+Hi, I'm B Coder 👋
+I'm a passionate Full-Stack Developer from Morocco, specializing in building modern, responsive, and interactive web applications with the MERN stack.
+I enjoy creating clean front-end experiences, developing scalable back-end systems, and continuously improving performance and usability.
+Currently, I’m learning Java and deepening my knowledge of Software Engineering to broaden my technical expertise.
 
-I love tackling challenges, improving my skills, and staying up-to-date with the latest technologies.
+I’m always motivated by new challenges, continuous learning, and building meaningful digital products.
 
 ---
 
